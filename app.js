@@ -1,7 +1,7 @@
 // MAZE
 
-var MAT_ROWS = 12;
-var MAT_COLS = 12;
+var MAT_ROWS = 15;
+var MAT_COLS = 15;
 var mat = [];
 function populate_mat(m) {
     var i,j=0;
